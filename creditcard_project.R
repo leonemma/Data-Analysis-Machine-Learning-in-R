@@ -51,5 +51,4 @@ str(roc)
 # class and negative class.
 
 
-# 2. Logistic Regression
 
